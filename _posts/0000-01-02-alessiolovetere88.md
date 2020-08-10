@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Alessio Lo Vetere
 Use the left arrow to go back!
 
